@@ -1,4 +1,4 @@
-name: github
+name: Create project labels
 
 on: push
 
