@@ -1,9 +1,0 @@
-onApproved:
-  set:
-    - Reviewed
-
-onChangesRequested:
-  remove:
-    - Reviewed
-  set:
-    - Changes Requested
