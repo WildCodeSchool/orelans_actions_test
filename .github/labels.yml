@@ -1,6 +1,6 @@
 - name: Reviewed 
   color: d73a4a
-  description: "Code is reviewed"i
+  description: "Code is reviewed";
 - name: Changes Requested
   color: 0075ca
   description: "Need changes in your code"
