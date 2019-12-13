@@ -1,4 +1,6 @@
 onApproved:
+  remove:
+    - Changes Request
   set:
     - Reviewed
 
